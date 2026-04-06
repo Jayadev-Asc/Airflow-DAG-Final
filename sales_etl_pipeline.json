@@ -1,0 +1,1 @@
+{"environment": "dev", "sales_etl_pipeline_source": "s3://sales-data-bucket"}
